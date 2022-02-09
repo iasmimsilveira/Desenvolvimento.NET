@@ -1,6 +1,6 @@
 using System;
 
-namespace DemoWebApi.Models
+namespace MyCooking.API
 {
     public class WeatherForecast
     {
